@@ -10,3 +10,8 @@ Features:
 
 Technologies/design patterns used in the application:
 MVC,Adapter,Command,Serialization,Prototype,Observer
+
+<br />
+Demo:
+<br />
+![](demo.gif)
