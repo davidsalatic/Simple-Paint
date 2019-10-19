@@ -6,6 +6,6 @@ Features:
 -Undo/redo actions 
 -To front/to back actions -Log
 
-Technologies/design patterns used in the application: MVC,Adapter,Command,Serialization,Prototype,Observer<br>
-Demo:
+Technologies/design patterns used in the application: MVC,Adapter,Command,Serialization,Prototype,Observer</br></br>
+Demo:</br>
 ![](demo.gif)
