@@ -1,11 +1,20 @@
-A simple MVC desktop app for drawing shapes, built using Java Swing.
+# Simple-Paint
 
-Features: 
--Drawing,editing and deleting shapes 
--Saving drawings to local drive 
--Undo/redo actions 
--To front/to back actions -Log
+## **_A simple MVC desktop app for drawing shapes, built using Java Swing._**
 
-Technologies/design patterns used in the application: MVC,Adapter,Command,Serialization,Prototype,Observer</br></br>
-Demo:</br>
+### Features: 
+- Drawing,editing and deleting shapes 
+- Saving drawings to local drive 
+- Undo/redo actions 
+- To front/to back actions 
+- Log
+
+### Technologies/design patterns implemented in the application: 
+- MVC 
+- Adapter
+- Command
+- Serialization
+- Prototype
+- Observer
+### Demo:
 ![](demo.gif)
