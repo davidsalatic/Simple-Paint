@@ -1,6 +1,6 @@
 # Simple-Paint
 
-## **_A simple MVC desktop app for drawing shapes, built using Java Swing._**
+## **_A simple MVC desktop app for drawing shapes_**
 
 ### Features: 
 - Drawing,editing and deleting shapes 
