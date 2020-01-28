@@ -8,7 +8,7 @@ public class PaintApp {
 		PaintModel model = new PaintModel();
 		PaintFrame frame = new PaintFrame();
 		frame.getView().setModel(model);
-	
+	//sa
 		PaintController controller = new PaintController(model, frame);
 		frame.setController(controller);
 		
